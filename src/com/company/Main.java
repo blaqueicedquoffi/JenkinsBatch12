@@ -6,6 +6,7 @@ public class Main {
         // write code here
         for (int i=0 ; i<5; i++ ) {
             System.out.println("Hello! I'm Manny");
+            System.out.println("Hello! I'm Brenda");
         }
     }
 }
